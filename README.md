@@ -20,9 +20,8 @@ Easily add, track, and complete your tasks in one clean and interactive place.
 
 ---
 ## 📌 How to Use
-1. download
-2. Open `index.html` in your browser  
-3. Start tracking your airdrops 🚀  
+1.open(https://anggii87.github.io/airdroptracker-pro/)
+3.Start tracking your airdrops 🚀  
 
 ---
 🔐 Data & Privacy
