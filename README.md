@@ -24,6 +24,7 @@ Easily add, track, and complete your tasks in one clean and interactive place.
 2. Open `index.html` in your browser  
 3. Start tracking your airdrops 🚀  
 
+---
 🔐 Data & Privacy
 -Stored locally (per-user, per-device) in the app's data folder.
 -No servers, accounts, or telemetry.
