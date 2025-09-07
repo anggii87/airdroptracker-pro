@@ -20,8 +20,8 @@ Easily add, track, and complete your tasks in one clean and interactive place.
 
 ---
 ## 📌 How to Use
-1.open(https://anggii87.github.io/airdroptracker-pro/)
-3.Start tracking your airdrops 🚀  
+-open(https://anggii87.github.io/airdroptracker-pro/)
+-Start tracking your airdrops 🚀  
 
 ---
 🔐 Data & Privacy
